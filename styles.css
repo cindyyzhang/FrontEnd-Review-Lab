@@ -1,0 +1,11 @@
+body {
+	background-color: #f4e1fa;
+}
+
+.important {
+	font-weight: bold;
+}
+
+#recipe {
+	border: 1px dotted red;
+}
